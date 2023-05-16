@@ -1,0 +1,1 @@
+i am fahad alloqmani fresh computer science graduate and intsted about DS, ML , and have many project about data analysis , the most important proejct social media data analysis , the main objective of the project was to utilize nlp methods to collect data about alhajj from twitter , and cleaning filitering the data and labelling ,user sp ML sckitlearn library 
